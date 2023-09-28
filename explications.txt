@@ -1,0 +1,5 @@
+# Fichier explications.txt pour expliquer le code HTML et CSS
+
+1. hello.html : Ce fichier contient la structure HTML de la page principale.
+
+2. style.css : Ce fichier contient les styles CSS appliqués à la page HTML.
