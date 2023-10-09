@@ -1,0 +1,1 @@
+Ajout des fonctionnalités d'inscription et de connexion pour les utilisateurs.
